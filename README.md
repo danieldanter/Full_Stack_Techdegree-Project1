@@ -1,0 +1,1 @@
+The getRandomQuote Generator generates random Quoats and shows them on a html page
